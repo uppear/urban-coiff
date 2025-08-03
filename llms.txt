@@ -1,0 +1,20 @@
+url: https://uppear.github.io/urban-coiff/
+summary: Urban Coiff est un salon de coiffure mixte situé à Bourges (18000), spécialisé dans les coupes, colorations, soins capillaires, et prestations pour femmes, hommes et enfants.
+
+faq:
+  - question: Où se trouve Urban Coiff ?
+    answer: Le salon est situé au 124 rue d’Auron, 18000 Bourges, dans le département du Cher.
+
+  - question: Est-ce que Urban Coiff fait les extensions et colorations ?
+    answer: Oui, le salon propose des extensions, des colorations modernes, balayages, et soins adaptés à chaque type de cheveux.
+
+  - question: Peut-on venir sans rendez-vous ?
+    answer: Oui, Urban Coiff accueille avec ou sans rendez-vous, selon les disponibilités du jour.
+
+  - question: Est-ce adapté aux enfants ?
+    answer: Oui, le salon est kids-friendly et propose des coupes pour enfants dans un cadre calme et rassurant.
+
+  - question: Quels sont les prix pour une coupe homme ?
+    answer: Les coupes hommes commencent à partir de 25€, avec un service rapide et soigné.
+
+tags: coiffure, extensions, coloration, salon mixte, Bourges, Cher, Centre-Val de Loire, bien-être, brushing
